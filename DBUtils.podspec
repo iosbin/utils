@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "Utils"
+  s.name         = "DBUtils"
   s.version      = "0.0.1"
   s.summary      = "A short description of Utils."
   s.description  = "test"
